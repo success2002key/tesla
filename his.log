@@ -1,0 +1,1000 @@
+    9  umask
+   10  cat family
+   11  pwd
+   12  cd class 2
+   13  clear
+   14  vim
+   15  clear
+   16  ls class*
+   17  ll
+   18  pwd
+   19  cat class2
+   20  cat family
+   21  grep -i j
+   22  useradd developers
+   23  clear
+   24  pwd
+   25  sudo useradd developers
+   26  ls
+   27  sudo useradd managers
+   28  ll
+   29  id managers
+   30  userdel managers
+   31  sudo userdel managers
+   32  sudo userdel developers
+   33  clear
+   34  sudo useradd dominion
+   35  sudo useradd success
+   36  sudo groupadd developers
+   37  sudo groupadd managers
+   38  sudo usermod -G developers success
+   39  sudo usermod -G managers dominion
+   40  sudo passwd dominion
+   41  sudo passwd success
+   42  umask
+   43  exist
+   44  pwd
+   45  cd class2
+   46  pwd
+   47  ll
+   48  sudo su class1
+   49  sudo su class3
+   50  su class3
+   51  pwd
+   52  ll
+   53  clear
+   54  mkdir nigeria
+   55  mkdir delta
+   56  mkdir ika
+   57  mkdir owerre
+   58  tree
+   59  pwd
+   60  cd ika
+   61  pwd
+   62  mkdir -p maven/jenkins/nexus/sonaqube/tomcat/
+   63  tree
+   64  sudo su dominion
+   65  clear
+   66  lscpu
+   67  clear
+   68  whoami
+   69  pwd
+   70  useradd jason
+   71  sudo useradd jason
+   72  ls
+   73  ll
+   74  cd /home
+   75  id user
+   76  id jason
+   77  mkdir -p us/texas/houston/westheimer
+   78  sudo -p us/texas/houston/westheimer/briargrove/
+   79  ll
+   80  cd dominion
+   81  tree
+   82  tree class
+   83  groupadd men
+   84  sudo groupadd men
+   85  ls
+   86  sudo su dominion
+   87  clear
+   88  df -h
+   89  clear
+   90  pwd
+   91  tree
+   92  useradd johnson
+   93  sudo useradd johnson
+   94  passwd johnson
+   95  sudo passwd johnson
+   96  favour180
+   97  ls
+   98  sudo usermod -G johnson
+   99  sudo usermod -g johnson
+  100  pwd
+  101  whoami
+  102  touch johnson.text
+  103  ll
+  104  tree
+  105  cd jenkins
+  106  ls
+  107  cd class2
+  108  pwd
+  109  touch.lilian.text
+  110  sudo touch lilian
+  111  ls
+  112  ll
+  113  pwd
+  114  clear
+  115  ip a
+  116  clear
+  117  ifconfig
+  118  uptime
+  119  clear
+  120  mkdir cnn
+  121  pwd
+  122  ll
+  123  cd cnn
+  124  pwd
+  125  mkdir news
+  126  ls
+  127  pwd
+  128  cd new
+  129  cd nesw
+  130  cd news
+  131  pwd
+  132  mkdir viewers
+  133  ll
+  134  pwd
+  135  cd viewers
+  136  pwd
+  137  tree
+  138  cd ..
+  139  pwd
+  140  cd ../..
+  141  pwd
+  142  cd viewers
+  143  cd.
+  144  cd /home
+  145  pwd
+  146  ll
+  147  ls
+  148  ll
+  149  touch inventory
+  150  sudo touch inventory
+  151  ll
+  152  cd inventory
+  153  rm inventory
+  154  ll /home
+  155  sudo rm -rf inventory
+  156  ll
+  157  rmdir jason
+  158  sudo rmdir jason
+  159  ll
+  160  useradd favour
+  161  sudo useradd favour
+  162  passwd favour
+  163  sudo -u root passwd favour
+  164  sudo usermod favour
+  165  clear
+  166  exist
+  167  sudo exist
+  168  clear
+  169  cd favour
+  170  cd /home
+  171  id user
+  172  id favour
+  173  sudo grpadd developers favour
+  174  sudo groupadd developers favour
+  175  ll
+  176  id favour
+  177  sudo -G groupadd developers favour
+  178  umask
+  179  pwd
+  180  sudo cat /etc/password
+  181  sudo cat /etc
+  182  pwd
+  183  cat /etc/passwd
+  184  cd..
+  185  cd ..
+  186  pwd
+  187  cat /etc|grep -m|sort
+  188  ll
+  189  cat /etc/passwd|sort
+  190  sudo grep m
+  191  sudo chage favour
+  192  pwd
+  193  ll
+  194  tree
+  195  pwd
+  196  whoami
+  197  sudo usermod -g developers johnson
+  198  ld johnson
+  199  ll
+  200  sudo chage family
+  201  sudo chown family
+  202  chown family
+  203  tree
+  204  clear
+  205  whoami
+  206  pwd
+  207  chage favour
+  208  sudo chage favour
+  209  exist
+  210  cd class2
+  211  pwd
+  212  sudo su johnson
+  213  clear
+  214  w
+  215  who
+  216  whereami
+  217  du
+  218  df -h
+  219  lscpu
+  220  clear
+  221  sudo vi /etc/sudoers
+  222  w
+  223  du
+  224  cd new
+  225  cd /news
+  226  cd /cnn/
+  227  cd ..
+  228  pwd
+  229  who
+  230  df -h
+  231  help ll
+  232  help ls
+  233  free -h
+  234  cd class2
+  235  user
+  236  users
+  237  useradd readers
+  238  sudo useradd john
+  239  sudo passwd john
+  240  pwd
+  241  sudo usermod -G developers john
+  242  ls
+  243  id john
+  244  sudo userdel johnson
+  245  cd managers
+  246  sudo cd managers
+  247  pwd
+  248  sudo userdel johnson
+  249  users
+  250  ls
+  251  tree
+  252  rm johnson
+  253  rmdir johnson
+  254  sudo rmdir johnson
+  255  sudo rm-rf johnson
+  256  sudo rm johnson
+  257  rmdir johnson
+  258  sudo rmdir johnson
+  259  ls johnson
+  260  ll johnson
+  261  sudo ls johnson
+  262  ls
+  263  id johnson
+  264  who johnson
+  265  pwd
+  266  who
+  267  w
+  268  du
+  269  df -h
+  270  clear
+  271  pwd
+  272  tree
+  273  pwd
+  274  whoami
+  275  cd class2
+  276  pwd
+  277  cd ..
+  278  pwd
+  279  df -h
+  280  who
+  281  users
+  282  id favour
+  283  id johnson
+  284  ls johnson
+  285  ll
+  286  ls family
+  287  ll
+  288  ls family
+  289  ls
+  290  whereis johnson
+  291  clear
+  292  exist
+  293  clear
+  294  su -root
+  295  sudo su -root
+  296  su -
+  297  favour180
+  298  pwd
+  299  umask
+  300  user
+  301  id user
+  302  id favour
+  303  ll
+  304  sudo vi family
+  305  ls
+  306  cd class3
+  307  pwd
+  308  touch girls.py
+  309  ls
+  310  ls girls
+  311  ll
+  312  cd /
+  313  pwd
+  314  cd /home
+  315  pwd
+  316  whoami
+  317  mkdir katy
+  318  sudo mkdir katy
+  319  useradd kenechi
+  320  ls
+  321  ll
+  322  sudo useradd kenechi
+  323  ls
+  324  sudo passwd kenechi
+  325  pwd
+  326  ll
+  327  cd kenechi
+  328  sudo cd kenechi
+  329  pwd
+  330  ls
+  331  cat /home
+  332  cat family
+  333  cat johnson.text
+  334  ls family
+  335  ls dominion
+  336  sudo ls dominion
+  337  ll
+  338  su chown developers
+  339  sudo chown developers
+  340  tail -5 developers
+  341  tail -2 family
+  342  clear
+  343  exist
+  344  logout
+  345  clear
+  346  sudo timedatectl list- timezones
+  347  timedatectl list-timezones
+  348  clear
+  349  timedatectl list-timezones
+  350  pwd
+  351  ll
+  352  clear
+  353  cp family>test one
+  354  ls
+  355  ll
+  356  clear
+  357  tree
+  358  ls files
+  359  iconfig
+  360  sudo iconfig
+  361  sudo su-
+  362  sudo vi /etc/ssh/sshd_config
+  363  clear
+  364  pwd
+  365  whoami
+  366  ll
+  367  ls
+  368  ls /home
+  369  cd davis
+  370  sudo cd davis
+  371  ls -l
+  372  ll -l
+  373  su -i
+  374  exist
+  375  rm groomers
+  376  sudo rm groomers
+  377  rm -rf groomers
+  378  clear
+  379  ls
+  380  ll
+  381  su -i /home
+  382  cd /home
+  383  whoami
+  384  pwd
+  385  ls
+  386  ll
+  387  mv developers/programers
+  388  ls
+  389  cp -r johnson
+  390  cp -r johnson/trevion
+  391  ls
+  392  cd developers
+  393  sudo cd developers
+  394  pwd
+  395  rmdir developers
+  396  sudo rmdir developers
+  397  ls developers
+  398  ls -l developers
+  399  ls /developers
+  400  clear
+  401  ll
+  402  tree
+  403  cd /etc/sudoers
+  404  cat /etc/sudoers
+  405  sudo cat /etc/sudoers
+  406  clear
+  407  sudo cat /etc/groups
+  408  cat /etc
+  409  ls /etc
+  410  clear
+  411  ls /bin
+  412  clear
+  413  df -h
+  414  clear
+  415  clear
+  416  ls /home
+  417  ll
+  418  cd developers
+  419  id developers
+  420  id katy
+  421  pwd
+  422  mkdir drivers
+  423  ls
+  424  pwd
+  425  su root
+  426  favour180
+  427  clear
+  428  useradd davis
+  429  sudo useradd davis
+  430  sudo passwd davis
+  431  usermod G developers davis
+  432  clear
+  433  sudo usermod -G developers davis
+  434  ll
+  435  umask
+  436  sudo su -i root
+  437  pwd
+  438  sudo chage davis
+  439  clear
+  440  exist
+  441  sudo -i
+  442  whoami
+  443  sudo timedatectl list timezones
+  444  sudo timedatectl list-timezones
+  445  sudo timedatectl set-timezones
+  446  sudo timedate set-timezone
+  447  sudo timedate set-timezone america/new_york
+  448  sudo timedate set-timezones Africa/Lagos
+  449  sudo timedate set-timezone Afric/Lagos
+  450  sudo timedate set-timezone Africa/Lagos
+  451  sudo timedatectl set-timezone Africa/Lagos
+  452  ls
+  453  ll
+  454  su -i
+  455  sudo su -i
+  456  su -i root
+  457  exist
+  458  clear
+  459  ls
+  460  pwd
+  461  sudo ec2-user
+  462  exist
+  463  pwd
+  464  cd /
+  465  whoami
+  466  sudo su -i root
+  467  su -i
+  468  su -i root
+  469  sudo su -i
+  470  clear
+  471  pwd
+  472  ls
+  473  su -i
+  474  su -i root
+  475  exist
+  476  echo " The Lord Is Good"
+  477  pwd
+  478  ls
+  479  cd /home
+  480  pwd
+  481  cd /etc/bin
+  482  cd /bin
+  483  pwd
+  484  ls
+  485  cd -
+  486  pwd
+  487  clear
+  488  echo "Jesus Is Lord"> Church.sh
+  489  sudo echo "Jesus is Lord" > church.sh
+  490  ls
+  491  echo " Jesus is Good" > Church
+  492  pwd
+  493  ls -l
+  494  cd favour
+  495  cd john
+  496  sudo cd john
+  497  pwd
+  498  ls
+  499  ls -t
+  500  ls lt
+  501  ls -lt
+  502  pwd
+  503  cd katy
+  504  pwd
+  505  ls
+  506  cd dominion
+  507  id
+  508  pwd
+  509  cd ..
+  510  pwd
+  511  cd ../../..
+  512  pwd
+  513  su -i
+  514  sudo su -i
+  515  whoami
+  516  su -i
+  517  sudo su -root
+  518  su-i
+  519  su -i 
+  520  clear
+  521  ls
+  522  ll
+  523  clear
+  524  ls -l
+  525  touch girlsclub
+  526  sudo touch girlsclub
+  527  ls
+  528  pwd
+  529  cat girlsclub
+  530  rm girlsclub
+  531  ls
+  532  rm -rf girlsclub
+  533  sudo rm -rf girlsclub
+  534  ll
+  535  ls
+  536  clear
+  537  sudo cat /etc/sudoers
+  538  clear
+  539  cat /etc/password
+  540  cat /etc/passwd
+  541  head /etc/passwd
+  542  tail -1 /etc/passwd
+  543  clear
+  544  vim girlsclub
+  545  cat girlsclub
+  546  sudo cat girlsclub
+  547  ls -l
+  548  ls
+  549  vim girlsclub
+  550  cat girlsclub
+  551  girlclubs
+  552  cat girlsclub
+  553  ls
+  554  pwd
+  555  clear
+  556  exit
+  557  su -i
+  558  whoami
+  559  vim girlsclub
+  560  cat girlsclub
+  561  ls
+  562  ll
+  563  clear
+  564  vi groomers
+  565  cat groomers
+  566  lsl -l
+  567  ls -l
+  568  clear
+  569  touch groomers
+  570  sudo touch groomers
+  571  ll
+  572  cat groomers
+  573  vim groomers
+  574  cp groomers groomers indeed
+  575  ll
+  576  cp groomers
+  577  clear
+  578  ll
+  579  cp -r groomers/gret
+  580  ll
+  581  mv groomers/gret
+  582  mv -help
+  583  clear
+  584  tree /home
+  585  cd class2
+  586  pwd
+  587  cd /news
+  588  cd favour
+  589  ll
+  590  cd ec2-user
+  591  sudo -i
+  592  pwd
+  593  whoami
+  594  who
+  595  w
+  596   sudo vi /etc/ssh/sshd_config
+  597  tail /home
+  598  tail groomers
+  599  ls
+  600  ll
+  601  tail text
+  602  rm text
+  603  rm test
+  604  ll
+  605  id /home
+  606  user /home
+  607  clear
+  608  logout
+  609  w
+  610  whoami
+  611  df -h
+  612  cat /etc/*releases
+  613  tree
+  614  pwd
+  615  ls
+  616  ll
+  617  cd class1
+  618  pwd
+  619  cd ..
+  620  pwd
+  621  tree
+  622  cd class2
+  623  cd delta
+  624  pwd
+  625  cd ika
+  626  cd ..
+  627  pwd
+  628  cd ika
+  629  pwd
+  630  cd maven
+  631  cd jenkins
+  632  cd nexus
+  633  cd ../../..
+  634  cd ~
+  635  pwd
+  636  su -i
+  637  sudo su -i 
+  638  su -i root
+  639  su -
+  640  favour180
+  641  clear
+  642  useradd samson
+  643  sudo useradd samson
+  644  sudo groupadd engineers
+  645  sudo usermod -G engineers samson
+  646  ls -l
+  647  cat /etc/group
+  648  clear
+  649  pwd
+  650  exist
+  651  sudo yum install exist
+  652  clear
+  653  whoami
+  654  su-i
+  655  su -i root
+  656  su root
+  657  favour80
+  658  sudo su root
+  659  whoami
+  660  sudo service sshd restart
+  661  w
+  662   sudo systemctl sshd restart
+  663  service restart sshd
+  664  sudo service restart sshd
+  665  sudo systemctl sshd restart
+  666  sudo systemctl restart sshd
+  667  yes
+  668  sudo chown family
+  669  cat family
+  670  chown family
+  671  sudo groupchg family
+  672  clear
+  673  expr 2+4
+  674  cal
+  675  cal 1971
+  676  clear
+  677  ll
+  678  umask family
+  679  sudo cat family
+  680  umask
+  681  chomod 644
+  682  sudo chomod 644
+  683  chomod 400
+  684  whoami
+  685  su root
+  686  exist
+  687  sudo su root
+  688  whoami
+  689  su samson 
+  690  favour180
+  691  clear
+  692  sudo su root
+  693  clear
+  694  vim /etc/sudoers
+  695  sudo vim /etc/sudoers
+  696  ll
+  697  sudo chown family we
+  698  sudo chown
+  699  mv class1 
+  700  sudo mv class1 class40
+  701  ll
+  702  ln -s friendsclear test.txt
+  703  ll
+  704  clear
+  705  whoami
+  706  exist
+  707  logout
+  708  exit
+  709  pwd
+  710  ls
+  711  ll
+  712  whatis ll
+  713  whatis ls
+  714  what is ls
+  715  w
+  716  su -i root
+  717  sudo -i
+  718  clear
+  719  ls
+  720  cat /home
+  721  ls /home
+  722  sudo su samson
+  723  whoami
+  724  touch test.txt
+  725  touch class28
+  726  ls
+  727  clear
+  728  echo 4shell
+  729  echo $shell
+  730  echo $SHELL
+  731  echoO $SHELL
+  732  echo $SHELL
+  733  pwd
+  734  cat /etc/shells
+  735  vi hello.sh
+  736  ls
+  737  ll
+  738  clear
+  739  cat hello.sh
+  740  whatis date
+  741  what is pwd
+  742  whatis ls
+  743  clear
+  744  ll
+  745  chomod +x hello.sh
+  746  chmod +x hello.sh
+  747  ll
+  748  ./hello.sh
+  749  clear
+  750  cat /etc/shells
+  751  vi deplo.sh
+  752  vi deploy.sh
+  753  bash deploy.sh
+  754  sh deploy.sh
+  755  tsh deploy.sh
+  756  ksh deploy.sh
+  757  csh.deploy.sh
+  758  sudo  yum install ksh
+  759  ksh deploy.sh
+  760  sudo yum install csh
+  761  csh deploy.sh
+  762  tsh deploy.sh
+  763  sudo yum install tsh
+  764  date
+  765  vi dynamic.sh
+  766  sh dynamic.sh
+  767  clear
+  768  bash dynamic.sh
+  769  vi dynamic.sh
+  770  bash dynamic.sh
+  771  vi dynamic.sh
+  772  bash dynamic.sh
+  773  vi dynamic.sh
+  774  bash dynamic.sh
+  775  ll
+  776  chmod +x dynamic.sh
+  777  ll
+  778  bash dynamic.sh
+  779  whatis variable
+  780  whatis pwd
+  781  whatis ll
+  782  whatis ls
+  783  whatis w
+  784  whatis #!/bin/bash
+  785  !
+  786  clear
+  787  vi var.sh
+  788  sh.var.sh
+  789  bash var.sh
+  790  vi var.sh
+  791  env
+  792  clear
+  793  echo $HISTSIZE
+  794  history
+  795  whatis export
+  796  whatis bash
+  797  export HISTSIZE=2000
+  798  history
+  799  echo $ HITSSIZE
+  800  echo $HISTSIZE
+  801  whoami
+  802  sudo su-i
+  803  su -u root
+  804  su -i root
+  805  ls -a
+  806  vi bash_profile
+  807  sudo cat /etc/profile
+  808  clear
+  809  vi /etc/profile
+  810  ll
+  811  chmod 666 one
+  812  ll
+  813  clear
+  814  vi devops.sh
+  815  cat devops.sh
+  816  ll devops.sh
+  817  chmod +x devops.sh
+  818  ll
+  819  bash devops.sh
+  820  su -u
+  821  su -i root
+  822  su -root
+  823  su root
+  824  favour180
+  825  exit
+  826  vi deploy.sh
+  827  pwd
+  828  sh deploy.sh
+  829  bash deploy.sh
+  830  echo $SHELL
+  831  cat /bin/bash
+  832  xterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-2xterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256color6cxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorxterm-256colorclear
+  833  clear
+  834  cat /etc/home
+  835  ls /
+  836  ls /home
+  837  sudo su success
+  838  whoami
+  839  bash devops.sh
+  840  clear
+  841  pwd
+  842  expr 5+5
+  843  expr 5 + 5
+  844  vi katy.sh
+  845  sh katy.sh
+  846  vi katy.sh
+  847  clear
+  848  ls
+  849  ll
+  850  tree
+  851  ls /home
+  852  clear
+  853  expr 5 + 6
+  854  pwd
+  855  whoami
+  856  clear
+  857  echo $HISTSIZE
+  858  CLEAR
+  859  clear
+  860  expr 5 + 7 ==
+  861  clear
+  862  vi if.sh
+  863  clear
+  864  pwd
+  865  whoami
+  866  ls
+  867  cd class40
+  868  pwd
+  869  cd ..
+  870  pwd
+  871  clear
+  872  ls
+  873  ll
+  874  cat devops.sh
+  875  grep to| sort |  clear
+  876  clear
+  877  cat devops.sh
+  878  pwd
+  879  cat devops.sh|grep to
+  880  cat devops.sh | grep to | sort
+  881  cat devops.sh |grep to
+  882  clear
+  883  vi engineers.sh
+  884  bash engineers.sh
+  885  clear
+  886  ls
+  887  ll
+  888  cat hello.sh
+  889  grep now
+  890  su -root
+  891  su root
+  892  favour180
+  893  exit
+  894  clear
+  895  ll
+  896  cp family > family2
+  897  pwd
+  898  cp family family2
+  899  ll
+  900  mkdir .telegroup
+  901  ls
+  902  ls -a
+  903  rmdir telegroup
+  904  rmdir class5
+  905  ll
+  906  clear
+  907  cat /etc/group
+  908  clear
+  909  ll /etc/password
+  910  cat /etc/password
+  911  cat /etc/passwd
+  912  clear
+  913  tree
+  914  cd engineers
+  915  clear
+  916  pwd
+  917  tree
+  918  clear
+  919  tree
+  920  cd class28
+  921  pwd
+  922  whoami
+  923  w
+  924  clear
+  925  ll
+  926  clear
+  927  pwd
+  928  touch class28-19
+  929  ll
+  930  vi class28-119
+  931  ll
+  932  umask class28-19
+  933  umask
+  934  pwd
+  935  clear
+  936  su - simon
+  937  useradd simon
+  938  clear
+  939  echo "Jesus saves" > save.txt
+  940  cat save.txt
+  941  echo " Jesus is alive" >save.text
+  942  cat save.txt
+  943  echo "Jesus is alive" > save.txt
+  944  cat save.txt
+  945  echo " Jesus is alive >> Jesus save
+  946  save2.txt
+  947  clear
+  948  exit
+  949  pwd
+  950  clear
+  951  cat save.txt
+  952  echo  Jesus is alive >>Jesus saves
+  953  cat save.txt
+  954  echo Jesus saves >> save.txt
+  955  cat save.txt
+  956  pwd
+  957  whoami
+  958  vi debug.sh
+  959  sh debug.sh 
+  960  bash debug.sh
+  961  vi debug.sh
+  962  cat debug.sh
+  963  rm debug.sh
+  964  ll
+  965  clear
+  966  pwd
+  967  whoami
+  968  who
+  969  tree
+  970  cd class40
+  971  pwd
+  972  tree
+  973  clear
+  974  mkdir tesla
+  975  ls
+  976  pwd
+  977  clear
+  978  git
+  979  sudo yum install git
+  980  git
+  981  clear
+  982  ls
+  983  cd /
+  984  pwd
+  985  cd tesl
+  986  clear
+  987  cd tesla
+  988  ls
+  989  ll
+  990  ls
+  991  clear
+  992  pwd
+  993  cd /home/tesla
+  994  clear
+  995  rm tesla
+  996  rmdipwd
+  997  pwd
+  998  clear
+  999  sudo yum install python3
+ 1000  clear
+ 1001  vi bank-app1.sh
+ 1002  sh bank-app1.sh
+ 1003  vi bank-app1.sh
+ 1004  bash bank-app1.sh
+ 1005  clear
+ 1006  history
+ 1007  clear
+ 1008  history > his.log
