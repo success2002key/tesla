@@ -10,17 +10,22 @@
 
 # hlsearch on (H) or off (h):
 ~H
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
+:wq
+|2,0,1653524727,,"wq"
 :q!
-|2,0,1653092713,,"q!"
+|2,0,1653353523,,"q!"
 :ql
 |2,0,1653091948,,"ql"
-:wq
-|2,0,1651964507,,"wq"
 :w!
 |2,0,1651892441,,"w!"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1653353507,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -29,235 +34,290 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	BLOCK	0
+"-	BLOCK	0
 	
-|3,1,36,2,1,0,1650813634,""
+|3,0,36,2,1,0,1650813634,""
 
 # File marks:
-'0  1  0  /etc/ssh/sshd_config
-|4,48,1,0,1653092713,"/etc/ssh/sshd_config"
-'1  1  0  /etc/ssh/sshd_config
-|4,49,1,0,1653091988,"/etc/ssh/sshd_config"
-'2  13  5  ~/arth.sh
-|4,50,13,5,1652918824,"~/arth.sh"
-'3  12  36  ~/arth.sh
-|4,51,12,36,1652918573,"~/arth.sh"
-'4  11  36  ~/arth.sh
-|4,52,11,36,1652918573,"~/arth.sh"
-'5  5  0  ~/arth.sh
-|4,53,5,0,1652918302,"~/arth.sh"
-'6  5  0  ~/arth.sh
-|4,54,5,0,1652918302,"~/arth.sh"
-'7  5  0  ~/arth.sh
-|4,55,5,0,1652918302,"~/arth.sh"
-'8  5  0  ~/arth.sh
-|4,56,5,0,1652918302,"~/arth.sh"
-'9  1  0  ~/save.txt
-|4,57,1,0,1652843912,"~/save.txt"
+'0  10  22  ~/katy.sh
+|4,48,10,22,1653525091,"~/katy.sh"
+'1  12  0  ~/dynamic.sh
+|4,49,12,0,1653524727,"~/dynamic.sh"
+'2  7  0  ~/auto.sh
+|4,50,7,0,1653355044,"~/auto.sh"
+'3  8  0  ~/tesla
+|4,51,8,0,1653353523,"~/tesla"
+'4  9  5  ~/teslaapp.sh
+|4,52,9,5,1653351716,"~/teslaapp.sh"
+'5  2  0  ~/list.java
+|4,53,2,0,1653248501,"~/list.java"
+'6  1  0  ~/tesla/hello.sh
+|4,54,1,0,1653247239,"~/tesla/hello.sh"
+'7  5  0  ~/tesla/tesla.app
+|4,55,5,0,1653246726,"~/tesla/tesla.app"
+'8  2  36  ~/tesla/tesla.app
+|4,56,2,36,1653246100,"~/tesla/tesla.app"
+'9  2  36  ~/tesla/tesla.app
+|4,57,2,36,1653246100,"~/tesla/tesla.app"
 
 # Jumplist (newest first):
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1653092713,"/etc/ssh/sshd_config"
--'  1  0  /etc/ssh/sshd_config
-|4,39,1,0,1653091988,"/etc/ssh/sshd_config"
--'  13  5  ~/arth.sh
-|4,39,13,5,1652918824,"~/arth.sh"
--'  13  5  ~/arth.sh
-|4,39,13,5,1652918824,"~/arth.sh"
--'  13  5  ~/arth.sh
-|4,39,13,5,1652918824,"~/arth.sh"
--'  13  5  ~/arth.sh
-|4,39,13,5,1652918824,"~/arth.sh"
--'  12  36  ~/arth.sh
-|4,39,12,36,1652918716,"~/arth.sh"
--'  12  36  ~/arth.sh
-|4,39,12,36,1652918716,"~/arth.sh"
--'  12  36  ~/arth.sh
-|4,39,12,36,1652918716,"~/arth.sh"
--'  12  36  ~/arth.sh
-|4,39,12,36,1652918716,"~/arth.sh"
--'  11  36  ~/arth.sh
-|4,39,11,36,1652918573,"~/arth.sh"
--'  11  36  ~/arth.sh
-|4,39,11,36,1652918573,"~/arth.sh"
--'  11  36  ~/arth.sh
-|4,39,11,36,1652918573,"~/arth.sh"
--'  11  36  ~/arth.sh
-|4,39,11,36,1652918573,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918367,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918367,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918367,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918367,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918367,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918367,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918367,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918367,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918302,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918302,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918302,"~/arth.sh"
--'  5  0  ~/arth.sh
-|4,39,5,0,1652918302,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/arth.sh
-|4,39,1,0,1652918182,"~/arth.sh"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  1  0  ~/save.txt
-|4,39,1,0,1652843912,"~/save.txt"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
--'  14  0  ~/bank-app1.sh
-|4,39,14,0,1652838263,"~/bank-app1.sh"
+-'  10  22  ~/katy.sh
+|4,39,10,22,1653525091,"~/katy.sh"
+-'  12  0  ~/dynamic.sh
+|4,39,12,0,1653524727,"~/dynamic.sh"
+-'  12  0  ~/dynamic.sh
+|4,39,12,0,1653524727,"~/dynamic.sh"
+-'  8  7  ~/dynamic.sh
+|4,39,8,7,1653524646,"~/dynamic.sh"
+-'  8  7  ~/dynamic.sh
+|4,39,8,7,1653524646,"~/dynamic.sh"
+-'  7  0  ~/auto.sh
+|4,39,7,0,1653355044,"~/auto.sh"
+-'  7  0  ~/auto.sh
+|4,39,7,0,1653355044,"~/auto.sh"
+-'  7  0  ~/auto.sh
+|4,39,7,0,1653355044,"~/auto.sh"
+-'  7  0  ~/auto.sh
+|4,39,7,0,1653355044,"~/auto.sh"
+-'  1  0  ~/auto.sh
+|4,39,1,0,1653354948,"~/auto.sh"
+-'  1  0  ~/auto.sh
+|4,39,1,0,1653354948,"~/auto.sh"
+-'  1  0  ~/auto.sh
+|4,39,1,0,1653354948,"~/auto.sh"
+-'  1  0  ~/auto.sh
+|4,39,1,0,1653354948,"~/auto.sh"
+-'  8  0  ~/tesla
+|4,39,8,0,1653353523,"~/tesla"
+-'  8  0  ~/tesla
+|4,39,8,0,1653353523,"~/tesla"
+-'  8  0  ~/tesla
+|4,39,8,0,1653353523,"~/tesla"
+-'  8  0  ~/tesla
+|4,39,8,0,1653353523,"~/tesla"
+-'  8  0  ~/tesla
+|4,39,8,0,1653353523,"~/tesla"
+-'  8  0  ~/tesla
+|4,39,8,0,1653353523,"~/tesla"
+-'  8  0  ~/tesla
+|4,39,8,0,1653353523,"~/tesla"
+-'  8  0  ~/tesla
+|4,39,8,0,1653353523,"~/tesla"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  9  5  ~/teslaapp.sh
+|4,39,9,5,1653351716,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  1  0  ~/teslaapp.sh
+|4,39,1,0,1653351649,"~/teslaapp.sh"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  2  0  ~/list.java
+|4,39,2,0,1653248501,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
+-'  1  0  ~/list.java
+|4,39,1,0,1653248455,"~/list.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/katy.sh
+	*	1653525086	0
+	"	10	22
+	^	10	23
+	.	10	22
+	+	9	4
+	+	10	22
+
+> ~/dynamic.sh
+	*	1653524719	0
+	"	12	0
+	^	12	0
+	.	11	24
+	+	2	32
+	+	10	35
+	+	8	9
+	+	9	3
+	+	8	8
+	+	11	24
+
+> ~/auto.sh
+	*	1653355038	0
+	"	7	0
+	^	7	0
+	.	6	7
+	+	6	7
+
+> ~/teslaapp.sh
+	*	1653351713	0
+	"	9	5
+	^	9	6
+	.	9	5
+	+	9	5
+
+> ~/list.java
+	*	1653248494	0
+	"	2	0
+	^	2	0
+	.	1	10
+	+	1	10
+
+> ~/tesla/hello.sh
+	*	1653247231	0
+	"	1	0
+
+> ~/tesla/tesla.app
+	*	1653246721	0
+	"	5	0
+	^	5	1
+	.	5	0
+	+	2	0
+	+	1	0
+	+	2	37
+	+	5	0
 
 > ~/arth.sh
 	*	1652918821	0
@@ -320,14 +380,6 @@
 	.	1	11
 	+	1	11
 
-> ~/katy.sh
-	*	1651964600	0
-	"	10	0
-	^	10	0
-	.	10	0
-	+	9	4
-	+	10	0
-
 > ~/deploy.sh
 	*	1651895443	0
 	"	5	27
@@ -361,66 +413,9 @@
 	+	7	23
 	+	5	0
 
-> ~/dynamic.sh
-	*	1651890932	0
-	"	8	7
-	^	8	8
-	.	8	8
-	+	2	32
-	+	10	35
-	+	8	9
-	+	9	3
-	+	8	8
-
 > ~/deplo.sh
 	*	1651888514	0
 	"	4	26
 	^	4	27
 	.	4	27
 	+	4	27
-
-> ~/hello.sh
-	*	1651887456	0
-	"	8	33
-	^	8	34
-	.	8	18
-	+	5	21
-	+	6	10
-	+	7	25
-	+	7	30
-	+	8	18
-
-> /girlsclub
-	*	1651556732	0
-	"	25	0
-	^	25	0
-	.	24	5
-	+	18	7
-	+	21	7
-	+	22	6
-	+	23	8
-	+	24	4
-	+	25	0
-	+	24	5
-
-> /groomers
-	*	1651546553	0
-	"	2	3
-	^	2	4
-	.	2	3
-	+	2	3
-
-> ~/friends
-	*	1650714775	0
-	"	16	0
-	^	16	0
-	.	16	0
-	+	15	5
-	+	16	0
-
-> ~/family
-	*	1650714510	0
-	"	13	2
-	^	13	3
-	.	13	2
-	+	13	2

@@ -7,4 +7,4 @@ echo "So let's see how it goes"
 sleep 5
 echo "Congratulations and welcome to the land of the rich"
 date
-
+echo Thanks for coming"

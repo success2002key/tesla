@@ -1,116 +1,4 @@
 pwd
-cat /etc|grep -m|sort
-ll
-cat /etc/passwd|sort
-sudo grep m
-sudo chage favour
-pwd
-ll
-tree
-pwd
-whoami
-sudo usermod -g developers johnson
-ld johnson
-ll
-sudo chage family
-sudo chown family
-chown family
-tree
-clear
-whoami
-pwd
-chage favour
-sudo chage favour
-exist
-cd class2
-pwd
-sudo su johnson
-clear
-w
-who
-whereami
-du
-df -h
-lscpu
-clear
-sudo vi /etc/sudoers
-w
-du
-cd new
-cd /news
-cd /cnn/
-cd ..
-pwd
-who
-df -h
-help ll
-help ls
-free -h
-cd class2
-user
-users
-useradd readers
-sudo useradd john
-sudo passwd john
-pwd
-sudo usermod -G developers john
-ls
-id john
-sudo userdel johnson
-cd managers
-sudo cd managers
-pwd
-sudo userdel johnson
-users
-ls
-tree
-rm johnson
-rmdir johnson
-sudo rmdir johnson
-sudo rm-rf johnson
-sudo rm johnson
-rmdir johnson
-sudo rmdir johnson
-ls johnson
-ll johnson
-sudo ls johnson
-ls
-id johnson
-who johnson
-pwd
-who
-w
-du
-df -h
-clear
-pwd
-tree
-pwd
-whoami
-cd class2
-pwd
-cd ..
-pwd
-df -h
-who
-users
-id favour
-id johnson
-ls johnson
-ll
-ls family
-ll
-ls family
-ls
-whereis johnson
-clear
-exist
-clear
-su -root
-sudo su -root
-su -
-favour180
-pwd
 umask
 user
 id user
@@ -998,3 +886,115 @@ exit
 ssh -i ec2-user@3.1134.245.59
 ssh -i ec2-user@3.134.245.59
 clear
+pwd
+whoami
+git status
+git init
+git log
+git status
+clear
+pwd
+clear
+git init
+git add dev
+git add
+git add .
+git log
+git status
+clear
+mkdir tesla
+pwd
+ls
+cd tesla
+pwd
+touch tesla.app
+vi tesla.app
+sh tesla.app
+cat tesla,app
+cat tesla.app
+vi tesla.app
+cat /etc/passwd
+ls -5 /etc/passwd
+tail -5 /etc/passwd
+clear
+git log
+git status
+whoami
+vi hello.sh
+clear
+sudo su favour
+clear
+ls
+sudo - favour
+sudo su - favour
+git status
+vi list.java
+clear
+git status
+clear
+vi teslaapp.sh
+git status
+git add teslaapp.sh
+git status
+git log
+git commit -m "The First Tesla app"
+git log
+git show
+clear
+git log
+ta = https://github.com/success2002key/tesla.git
+git status
+git remote add ta https://github.com/success2002key/tesla.git
+git push ta master
+git status
+git log
+git branch
+git branch stage
+git branch dev
+git branch
+git checkout dev
+git branch
+git checkout stage
+git branch
+clear
+git status
+git pull ta  master
+git checkout master
+git pull ta master
+git status
+git add tesla/
+git status
+git log
+vi tesla
+git commit -m "tesla second app"
+git diff
+clear
+git remote add tesla https://github.com/success2002key/teslabackup.git
+git push tesla master
+git status
+git fetchmaster
+git fetch master
+git pull
+git status
+git pull master stage
+clear
+git checkout stage
+ls
+pwd
+git log
+git branch
+git branch -d dev
+git branch
+git branch -b dev
+git branch
+git branch dev
+git branch
+git checkout master
+git branch
+clear
+vi auto.sh
+git stash auto.sh
+git status
+git stash apply
+clear
+git show
