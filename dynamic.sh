@@ -8,3 +8,5 @@ echo "once again welcome the place of God's presence"
 sleep 5s
 date
 echo "Welcome and Thanks for coming"
+echo "Thanks for coming"
+
